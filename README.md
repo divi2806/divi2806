@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/divyansh_s28" target="blank"><img src="https://img.shields.io/twitter/follow/divyansh_s28?logo=twitter&style=for-the-badge" alt="divyansh_s28" /></a> </p>
 
-- 🔭 I’m currently working on my startup [DTU Leap (A ed-tech startup)](https://dtuleap.netlify.app/)
+- 🔭 I’m currently working on my startup [DTU Leap (An ed-tech startup)](https://dtuleap.netlify.app/)
 
 - 🌱 I’m currently learning **React, MongoDB , Tailwind , DSA in Java , Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source in particular of cybersecruity and web dev**
 
 - 🤝 I’m looking for help with Startup [DTU Leap](https://dtuleap.netlify.app/)
 
