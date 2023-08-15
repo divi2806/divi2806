@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **html,css,js,java,python,mysql,cybersecurity,networking**
 
-- 📫 How to reach me **divyansh280605@gmail.com**
+- 📫 How to reach me **divyansh242805@gmail.com**
 
 - 📄 My resume [https://drive.google.com/file/d/1yncY2m0uoJLgKuDvERkQ1VajWKA6BDaM/view?usp=drive_link](https://drive.google.com/file/d/1yncY2m0uoJLgKuDvERkQ1VajWKA6BDaM/view?usp=drive_link)
 
