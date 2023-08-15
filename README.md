@@ -1,4 +1,4 @@
-
+![logo](https://github.com/divi2806/divi2806/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Divyansh Sharma</h1>
 <h3 align="center">A passionate learner and a person with deep interest in computer science and programming. I am doing my B.Tech from DTU</h3>
 <img align="right" alt="coding" width="400" src ="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif">
